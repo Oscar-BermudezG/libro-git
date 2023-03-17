@@ -3,3 +3,4 @@ Capitulo 2:Flujo de trabajo basico
 Capitulo 3:Gestion de Rama
 Capitulo 4:Repositorios remotos
 
+Capítulo 5: Conceptos avanzados
